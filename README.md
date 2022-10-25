@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @golubexe
-- 👀 I’m interested in MySQL and C++
+- 👀 I’m interested in MySQL and C Programming
 - 🌱 I’m currently learning Object Oriented Programming
 - 💞️ I’m looking to collaborate on SQL & C++ projects.
 - 📫 How to reach me | Discord - Golub#8715
